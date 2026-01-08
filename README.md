@@ -2,6 +2,10 @@
 
 This project trains a small GPT-2 model from scratch on the Tatar language using the Wikipedia dataset.
 
+### Artifacts
+- [Data](https://huggingface.co/datasets/alexkkir/tatar-wikipedia-corpus)
+- [Trained tokenizer & Model](https://huggingface.co/alexkkir/tatar-gpt2-small/tree/main)
+
 ## Project Structure
 
 *   `download_data.py`: Downloads the Tatar Wikipedia dataset using Hugging Face Datasets.
