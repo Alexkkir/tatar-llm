@@ -1,0 +1,15 @@
+[project]
+name = "nlp-hw1"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.12.0",
+    "datasets>=4.4.2",
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+    "scikit-learn>=1.8.0",
+    "tensorboard>=2.20.0",
+    "tokenizers>=0.22.2",
+    "torch>=2.9.1",
+    "transformers>=4.57.3",
+]
