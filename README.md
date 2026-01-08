@@ -5,6 +5,7 @@ This project trains a small GPT-2 model from scratch on the Tatar language using
 ### Artifacts
 - [Data](https://huggingface.co/datasets/alexkkir/tatar-wikipedia-corpus)
 - [Trained tokenizer & Model](https://huggingface.co/alexkkir/tatar-gpt2-small/tree/main)
+- [Inference](https://github.com/Alexkkir/tatar-llm/blob/main/demo_notebook.ipynb)
 
 ## Project Structure
 
